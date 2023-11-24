@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.navbar{
+    width: 100%;
+    background-color: #6F6AF7;
+    font-family: 'DM Sans', sans-serif;
+    color: white;
+    display: flex;
+    
+}
+.navbar h1{
+    font-family: 'Delius Unicase', cursive;
+    padding: 10px 50px;
+
+}
+.menu{
+   padding: 10px 300px;
+}
+.menu ul li {
+    display: inline-block;
+    padding: 0px 20px;
+
+}
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+    line-height: 47px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'DM Sans', sans-serif;
+}
+.menu ul li input{
+    padding: 10px 10px;
+    border-radius: 20px;
+    border: none;
+}
